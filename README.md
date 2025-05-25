@@ -1,6 +1,6 @@
 # 🌦️ Animated Weather Website - Pakistan Edition
 
-A modern, visually captivating, and fully responsive weather website that displays **real-time weather** for all **major cities in Pakistan**, complete with **hourly updates**, **7-day forecasts**, **location detection**, and **advanced animations**.
+A modern, visually captivating, and fully responsive weather website that displays **real-time weather** for all **major cities in Pakistan**, complete with **7-day forecasts**, **location detection**, and **advanced animations**.
 
 ---
 
